@@ -45,4 +45,13 @@ ASP.Net Digital ERP All In One ERP Solution
 ASP.Net MVC5 ERP Software
 
 <b>More details and Download link</b>
-https://www.coderobotics.com/product-category/asp.net-application
+https://www.aspscriptsonline.com/product-category/asp.net-application
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
